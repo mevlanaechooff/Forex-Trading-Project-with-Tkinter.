@@ -1,6 +1,6 @@
 """
 
-@author seyhmus gurkan
+@author noah gurkan
 
 """
 # libraries
